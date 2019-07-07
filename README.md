@@ -1,2 +1,2 @@
-# clang-format-3.8
-Dockerfile for clang-format-3.8
+# clang-format-3.8-docker
+Dockerfile for clang-format-3.8-docker
